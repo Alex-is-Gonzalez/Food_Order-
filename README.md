@@ -47,4 +47,4 @@ The backend was created with [strapi](https://docs.strapi.io/developer-docs/late
 The goal for this project is to continue to add more features while maintaining an intuitive design. In addition, the back-end will continue delevoping to leverage other services such as user authentication. 
 
 ## License Information
-MIT
+MIT 
