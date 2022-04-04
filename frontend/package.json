@@ -23,6 +23,7 @@
     "js-cookie": "^2.2.1",
     "next": "^9.4.0",
     "next-apollo": "^3.1.10",
+    "npm": "^5.10.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "reactstrap": "^8.6.0"
